@@ -13,3 +13,5 @@ O desafio completo se encontra no repositório da Maratona: https://github.com/m
 :rocket: Desenvolvimento de fluxo conversacional (diálogo);
 
 :rocket: Variáveis de contexto e Webhook.
+
+<img src="https://github.com/AlanZF/chatbot-watson-assistant/blob/master/video.gif"/>
